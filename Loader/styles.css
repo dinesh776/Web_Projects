@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 15px solid #F0F2EF;
+    border-top:15px solid #AFD5AA;
+    animation: spin 1s ease-in-out 0s infinite normal;
+}
+
+@keyframes spin {
+    from{transform: rotate(0deg);}
+    to{transform: rotate(360deg);}
+}
