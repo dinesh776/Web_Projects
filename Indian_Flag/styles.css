@@ -38,7 +38,7 @@
     height: 160px;
     width: 160px;
     border-radius: 50%;
-    background-image: url("./1.png");
+    background-image: url("./images/1.png");
     background-position: -8px -2px;
     transform: scale(0.5,0.5);
     background-repeat: no-repeat;

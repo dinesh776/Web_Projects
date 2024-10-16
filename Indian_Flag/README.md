@@ -25,7 +25,7 @@ This project showcases the Indian flag using only HTML and CSS. It is a simple r
 - The **Ashoka Chakra** is placed in the center of the white section as a blue circle with lines radiating outward.
 
 ## Screenshot
- ![1](./Screenshot.png)
+ ![1](./images/Screenshot.png)
 
 ## How to Run
 
