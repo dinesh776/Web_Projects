@@ -26,11 +26,11 @@ Each project is organized in its own folder with the following structure:
 
 Here are some of the web projects included in this repository:
 
-| Project Name | Description                                                | Live Demo/Source Link                       |
-|--------------|------------------------------------------------------------|---------------------------------------------|
-| Amazon Clone | Amazon.in Website Clone                                    | [Link to Project 1](Project1/)             |
-| Indian Flag  | It Displays Indian Flag developed purely with HTML and CSS | [Link to Project 2](Project2/)             |
-| Loader       | It is a loader element which developed using html and css  | [Link to Project 3](Project3/)             |
+| Project Name | Description                                                | Source Link                                                              |
+|--------------|------------------------------------------------------------|--------------------------------------------------------------------------|
+| Amazon Clone | Amazon.in Website Clone                                    | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Amazon_Clone) |
+| Indian Flag  | It Displays Indian Flag developed purely with HTML and CSS | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Indian_Flag)  |
+| Loader       | It is a loader element which developed using html and css  | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Loader)                                                            |
 
 More projects will be added as I continue to develop new ideas and improve my skills in web development.
 
