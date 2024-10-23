@@ -64,10 +64,10 @@ The project follows a simple directory structure:
    
    
 ## Screenshots
-   ![1](./AmazonClone/Screenshots/1.png)
-   ![2](./AmazonClone/Screenshots/2.png)
-   ![3](./AmazonClone/Screenshots/3.png)
-   ![4](./AmazonClone/Screenshots/4.png)
+   ![1](https://raw.githubusercontent.com/dinesh776/Web_Projects/refs/heads/main/Amazon_Clone/Screenshots/1.png)
+   ![2](https://raw.githubusercontent.com/dinesh776/Web_Projects/refs/heads/main/Amazon_Clone/Screenshots/2.png)
+   ![3](https://raw.githubusercontent.com/dinesh776/Web_Projects/refs/heads/main/Amazon_Clone/Screenshots/3.png)
+   ![4](https://raw.githubusercontent.com/dinesh776/Web_Projects/refs/heads/main/Amazon_Clone/Screenshots/4.png)
 
 
 
