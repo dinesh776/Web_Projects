@@ -30,7 +30,8 @@ Here are some of the web projects included in this repository:
 |--------------|------------------------------------------------------------|--------------------------------------------------------------------------|
 | Amazon Clone | Amazon.in Website Clone                                    | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Amazon_Clone) |
 | Indian Flag  | It Displays Indian Flag developed purely with HTML and CSS | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Indian_Flag)  |
-| Loader       | It is a loader element which developed using html and css  | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Loader)       || Mondrian Painting       | Modrian Painting which developed using css Grid  | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Mondrian_Painting) 
+| Loader       | It is a loader element which developed using html and css  | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Loader) 
+Mondrian Painting       | Modrian Painting which developed using css Grid  | [Link](https://github.com/dinesh776/Web_Projects/tree/main/Mondrian_Painting)       || 
 
 More projects will be added as I continue to develop new ideas and improve my skills in web development.
 
