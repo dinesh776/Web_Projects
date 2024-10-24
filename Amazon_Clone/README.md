@@ -76,7 +76,7 @@ The project follows a simple directory structure:
 https://github.com/user-attachments/assets/2a0cb7b7-4cd4-4b73-834a-04554dd5985f
 
 ## Check out complete Repo here :
-![Link](https://github.com/dinesh776/Web_Projects/tree/main/Amazon_Clone)
+[Link](https://github.com/dinesh776/Web_Projects/tree/main/Amazon_Clone)
    
 
 
